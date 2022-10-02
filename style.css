@@ -1,0 +1,20 @@
+h1{
+    background: pink;
+    margin-left: 170px;
+    width: 85px;
+    border-style: solid;
+    border-color: grey;
+}
+    
+    
+    
+p{
+    width: 400px;
+    text-align: justify;
+    height: 110px;
+    margin-left: 30px;
+    background: rgb(92, 155, 155);
+    border-left: solid;
+    padding-left: 5px;
+    padding-right: 10px;
+}
